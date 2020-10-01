@@ -1,5 +1,5 @@
 # Arduino_humidome_V5_testingprogramV2.0
-Constant Humidity Chamber control code with OLED display and BME280
+Constant Humidity Chamber control code with OLED display and BME280 
 features:
 Analog adjustment for target humidity (knob adjustment)
 Compatible with Arduino uno/mega/mini/nano/etc. 
